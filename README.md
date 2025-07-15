@@ -1,18 +1,19 @@
-#AuraOnlineStatus
+🇺🇸 English
 
-🇺🇳 English
+📖 Overview:
 
-Overview
 AuraOnlineStatus is a plugin for Minecraft Bedrock Edition servers running PocketMine-MP 5.0.0 (PM5 API 5.0.0). This plugin allows server administrators to display the online player count of a remote server in the lobby or sum the total online players across multiple servers. It provides real-time server status updates, enhancing the player experience with clear and customizable online status displays.
 
-Features
+🪄Features:
+
 Displays the online player count for a specified remote server in the lobby.
 Supports summing the total online players across multiple servers.
 Compatible with PocketMine-MP 5.0.0 (PM5 API 5.0.0).
 Lightweight and optimized for minimal server load.
 Easy configuration for single or multi-server setups.
 
-Installation
+📥 Installation:
+
 Download the latest release of AuraOnlineStatus from the Releases page.
 Place the AuraOnlineStatus.phar file in the plugins folder of your PocketMine-MP server.
 Restart the server or use the /reload command to load the plugin.
@@ -33,17 +34,20 @@ update-interval: 30
 
 🇷🇺 Русский
 
-Обзор
+📖 Обзор:
+
 AuraOnlineStatus — это плагин для серверов Minecraft Bedrock Edition, работающих на PocketMine-MP 5.0.0 (PM5 API 5.0.0). Плагин позволяет администраторам серверов отображать количество игроков онлайн на удалённом сервере в лобби или суммировать общее количество игроков онлайн на нескольких серверах. Он предоставляет актуальную информацию о статусе серверов в удобном и настраиваемом формате.
 
-Возможности
+🪄 Возможности:
+
 Отображение количества игроков онлайн для указанного удалённого сервера в лобби.
 Поддержка суммирования общего количества игроков онлайн на нескольких серверах.
 Совместимость с PocketMine-MP 5.0.0 (PM5 API 5.0.0).
 Легковесный и оптимизированный для минимальной нагрузки на сервер.
 Простая настройка для одиночных или многосерверных конфигураций.
 
-Установка
+📥 Установка:
+
 Скачайте последнюю версию AuraOnlineStatus с Releases.
 Поместите файл AuraOnlineStatus.phar в папку plugins вашего сервера PocketMine-MP.
 Перезапустите сервер или используйте команду /reload для загрузки плагина.
