@@ -1,0 +1,5 @@
+name: AuraOnlineStatus
+version: "Public GitHub"
+main: OnlineStatus\Main
+api: 5.0.0
+author: "karepanov"
